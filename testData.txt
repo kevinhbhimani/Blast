@@ -1,0 +1,8 @@
+String0 Name0
+acgtgctgac agtcgtagtt aaggtcgtac aagttccgat
+
+String1 Name1
+acgtgctgac aggtcgtacg aaggtcgtac aagttcagta
+
+String2 Name2
+cgtgtcagac aggtcgtagc agtcgtagtt agctgcggtg

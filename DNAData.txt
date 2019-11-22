@@ -1,0 +1,30 @@
+48477070 Foot-and-mouth disease virus - type SAT 2, complete genome
+ttgaaagggg gcgctagggt cttgccctag ttagccgtaa cgaccgtccc tgcgactcac
+
+48429537 Foot-and-mouth disease virus - type SAT 1, complete genome
+ttgaaagggg gcgctagggt ctagccctag tgtcgcgcaa cgaccgcccc cggttgaaac
+
+59585 Hepatitis B virus genome, subtype ayr
+ctccacaaca ttccaccaag ctctgctaga tcccagagtg aggggcctat attttcctgc
+
+9628705 GB virus C/Hepatitis G virus, complete genome
+acgtggggga gttgatcccc cccccccggc actgggtgca agccccagaa accgacgcct
+
+82571072 Influenza A virus (A/New York/2782/2004 (H3N2)) hemagglutinin,partial cds
+caaaaacttc ccggaaatga caacagcacg gcaacgctgt gccttgggca ccatgcagta
+
+9630688 Potato yellow mosaic virus DNA B, complete sequence
+tttcggggca ttttgataaa tattagtgtt cccccgatat gttcccccaa ttgctctggc
+
+9630683 Potato yellow mosaic virus DNA A, complete sequence
+tttcgtggca tttttgtaaa tatgaatgtt ctcccaatat gttcccccta ttgctctggc
+
+77120247 Human rotavirus G3 segment 8, complete sequence
+ggcttttaat gcttttcagt ggttgatgct caagatggag tctactcagc agatggctag
+
+77119805 Human rotavirus G3 segment 11, complete sequence
+ggcttttaaa gcgctacagt gatgtctctc agtattgacg tgacgagtct tccttctatt
+
+12246961 Hepatitis B virus strain C-1858 isolate ea2, complete genome
+ctccagcaca ttccaccaag ctctgctaga tcccagagtg aggggcctat actttcctgc
+
