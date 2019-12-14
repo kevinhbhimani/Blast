@@ -1,0 +1,8 @@
+DNASequence: This class represents a DNA sequence - it contains the GI, the description, and the (partial) DNA sequence.
+Location: This class represents a pairing of a sequence number and a position within that sequence.
+Database: This class contains the DNA sequence data, it contains the HashMap that holds all possible n-letter words contained in this DNA data, it has a method to find matches of substrings of a query sequence, a method to extend those matches, and possibly a method to display the matches.
+MatchElement: This class stores information for each match longer than a given threshold.
+BLASTMain: This class contains the main method which creates and runs the application.
+BLASTApp: This class gets the DNA data and the query data from the data readers. It has a run method that iterates through each query and displays any matches with substrings of the DNA data that are longer than a given threshold.
+DNADataReader: This class reads the DNA sequence data from a file, and puts it into an appropriate data structure.
+QueryReader: This class reads the query data from a file, and puts it into an appropriate data structure.
